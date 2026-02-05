@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Email
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ghwlsajfl10@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (ghwlsajfl10@gmail.com)
 
 # Blog
 [📝](https://into-the-coding.tistory.com/)
