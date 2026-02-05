@@ -3,6 +3,9 @@
 # Email
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ghwlsajfl10@gmail.com
 
+# Blog
+[📝](https://into-the-coding.tistory.com/)
+
 # Resume
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://daewons-portfolio.notion.site/Resume-26e620eee35b80fbac07cf3122dac3b2)
 
