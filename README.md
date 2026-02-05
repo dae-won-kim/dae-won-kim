@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# Resume
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://daewons-portfolio.notion.site/Resume-26e620eee35b80fbac07cf3122dac3b2)
+
+
+# Portfoilo
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://daewons-portfolio.notion.site/Portfolio-268620eee35b80f38037d2db8fe2471f)
+
 <!--
 **dae-won-kim/dae-won-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ghwlsajfl10@gmail.com
+
 
 
 # Languages
