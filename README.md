@@ -5,7 +5,7 @@
 [📝](https://into-the-coding.tistory.com/)
 
 # Resume
-[![Notion](https://daewons-portfolio.notion.site/33b620eee35b80c99470ef7d7e3359b2?pvs=74)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://daewons-portfolio.notion.site/33b620eee35b80c99470ef7d7e3359b2?pvs=74)
 
 
 # Portfoilo
